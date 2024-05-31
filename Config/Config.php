@@ -1,5 +1,5 @@
 <?php
-const base_url = "http://localhost/eventos/";
+const base_url = "/eventos/";
 const host = "localhost";
 const user = "root";
 const pass = "";
